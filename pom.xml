@@ -23,7 +23,7 @@
         <model-mapper.version>2.3.8</model-mapper.version>
         <postgres-connector.version>42.2.5</postgres-connector.version>
         <docker.fileName>Dockerfile</docker.fileName>
-        <fabric8io.docker.version>0.34.0</fabric8io.docker.version>
+        <fabric8io.docker.version>0.34.1</fabric8io.docker.version>
         <docker-image-name>demo</docker-image-name>
         <docker.image.tag>dev</docker.image.tag>
         <docker.registry>172.17.251.87:5000</docker.registry>
