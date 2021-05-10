@@ -20,7 +20,7 @@
         <gateway.version>2.1.1.RELEASE</gateway.version>
         <swagger.version>2.9.2</swagger.version>
         <lombok.version>1.18.8</lombok.version>
-        <model-mapper.version>2.4.1</model-mapper.version>
+        <model-mapper.version>2.4.3</model-mapper.version>
         <postgres-connector.version>42.2.5</postgres-connector.version>
         <docker.fileName>Dockerfile</docker.fileName>
         <fabric8io.docker.version>0.35.0</fabric8io.docker.version>
